@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on [Dr IQ](https://play.google.com/store/apps/details?id=com.attech.attech_android_1.driq&hl=en&gl=US)
 
+*Languages & Tools
+
+<a href="https://kotlinlang.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="kotlin" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="max-width: 100%;"> </a>
 
 <!--
 **MansoorNisar92/mansoornisar92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
