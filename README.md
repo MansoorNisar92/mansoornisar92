@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning <strong>Video/Audio Calling SDKs</strong>
 - 📫 How to reach me <strong><a href="mailto:mansoornisar12@gmail.com">Mansoor Nisar</a></strong>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mansoornisar92)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mansoornisar92&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoornisar92&hide=stars&show_icons=true)](https://github.com/mansoornisar92/github-readme-stats)
+[![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoornisar92&hide=stars&show_icons=true&theme=dark)](https://github.com/mansoornisar92/github-readme-stats)
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/60d977f8f2cffb86f7322d1d4c475db7c2fcbc6938b08287a5734eb99a9a25be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b61736869662d652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="center" src="https://camo.githubusercontent.com/60d977f8f2cffb86f7322d1d4c475db7c2fcbc6938b08287a5734eb99a9a25be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b61736869662d652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="mansoornisar92" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoornisar92&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a></p>
 
