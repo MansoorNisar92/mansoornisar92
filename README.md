@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning <strong>Video/Audio Calling SDKs</strong>
 - 📫 How to reach me <strong><a href="mailto:mansoornisar12@gmail.com">Mansoor Nisar</a></strong>
 
+![](https://komarev.com/ghpvc/?username=mansoornisar92)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mansoornisar92&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoornisar92&hide=stars&show_icons=true&theme=dark)](https://github.com/mansoornisar92/github-readme-stats)
