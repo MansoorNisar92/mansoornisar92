@@ -2,6 +2,13 @@
 
 - 🔭 I’m currently working on [Dr IQ](https://play.google.com/store/apps/details?id=com.attech.attech_android_1.driq&hl=en&gl=US)
 
+## Blogs posts
+<ul dir="auto">
+<li><a href="https://medium.com/@mansoornisar12/ios-image-slider-using-collectionview-in-objective-c-25aae3a996ac" rel="nofollow">iOS Image Slider Using CollectionView in Objective-C</a></li>
+<li><a href="https://medium.com/@mansoornisar12/nsnotificationcenter-885c2bb2aaec" rel="nofollow">NSNotificationCenter in Objective-C</a></li>
+</ul>
+
+
 ## Connect with me:
 <p align="left" dir="auto">
 <a href="https://linkedin.com/in/mansoor-nisar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansoor-nisar" height="30" width="40" style="max-width: 100%;"></a>
