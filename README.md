@@ -10,7 +10,7 @@
 
 [![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoornisar92&hide=stars&show_icons=true&theme=dark)](https://github.com/mansoornisar92/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoornisar92&theme=dracula)](https://github.com/mansoornisar92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoornisar92&theme=dracula&layout=compat)](https://github.com/mansoornisar92/github-readme-stats)
 
 
 ## Blogs posts
