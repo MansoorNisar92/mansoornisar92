@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning <strong>Video/Audio Calling SDKs</strong>
 - 📫 How to reach me <strong><a href="mailto:mansoornisar12@gmail.com">Mansoor Nisar</a></strong>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mansoornisar92)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Blogs posts
 <ul dir="auto">
 <li><a href="https://medium.com/@mansoornisar12/ios-image-slider-using-collectionview-in-objective-c-25aae3a996ac" rel="nofollow">iOS Image Slider Using CollectionView in Objective-C</a></li>
