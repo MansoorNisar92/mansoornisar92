@@ -8,6 +8,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mansoornisar92)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoornisar92)](https://github.com/mansoornisar92/github-readme-stats)
+
+
 
 ## Blogs posts
 <ul dir="auto">
