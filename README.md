@@ -62,5 +62,12 @@
 	<a href="https://developers.google.com/maps/documentation/android-sdk/overview" rel="nofollow"> 
 		<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" style="max-width: 100%;"> 
 	</a>
+	<a href="https://www.bitbucket.com/" rel="nofollow"> 
+		<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" style="max-width: 100%;"> 
+	</a>
+	<a href="https://www.braintree.com/" rel="nofollow"> 
+		<img src="https://www.vectorlogo.zone/logos/braintreepayments/braintreepayments-ar21.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/braintreepayments/braintreepayments-ar21.svg" style="max-width: 100%;"> 
+	</a>
+	
 	
 </p>
