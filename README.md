@@ -56,7 +56,6 @@
 	<a href="https://flutter.dev" rel="nofollow"> 
 		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="max-width: 100%;"> 
 	</a>
-	
 	<a href="https://stripe.com/" rel="nofollow"> 
 		<img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" style="max-width: 100%;"> 
 	</a>
