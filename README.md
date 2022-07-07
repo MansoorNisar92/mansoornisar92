@@ -65,7 +65,7 @@
 	<a href="https://www.bitbucket.com/" rel="nofollow"> 
 		<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" style="max-width: 100%;"> 
 	</a>
-	<a href="https://www.braintree.com/" rel="nofollow"> 
+	<a href="https://developer.paypal.com/braintree/docs" rel="nofollow"> 
 		<img src="https://www.vectorlogo.zone/logos/braintreepayments/braintreepayments-icon.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/braintreepayments/braintreepayments-icon.svg" style="max-width: 100%;"> 
 	</a>
 	
